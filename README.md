@@ -43,8 +43,8 @@ https://movie-recommender-ashif.streamlit.app/
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/movie-recommender.git
-cd movie-recommender
+git clone https://github.com/almdashif/Movie-Recommender.git
+cd Movie-Recommender
 ```
 
 Create virtual environment:
@@ -72,7 +72,7 @@ streamlit run app.py
 ## 📂 Project Structure
 
 ```
-movie-recommender/
+Movie-Recommender/
 │
 ├── app.py
 ├── main.py
