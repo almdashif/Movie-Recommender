@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model files (optional - large)
+*.pkl
+
+# System files
+.DS_Store
+
+# Streamlit cache
+.streamlit/
+
+# Environment files
+.env
