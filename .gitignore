@@ -6,7 +6,7 @@ __pycache__/
 *.pyc
 
 # Model files (optional - large)
-*.pkl
+# *.pkl
 
 # System files
 .DS_Store
