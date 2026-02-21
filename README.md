@@ -1,5 +1,7 @@
 # 🎬 Movie Recommender System
 
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Live%20App-red?logo=streamlit)](https://movie-recommender-ashif.streamlit.app/)
+
 A content-based movie recommendation system built using:
 
 - Python
